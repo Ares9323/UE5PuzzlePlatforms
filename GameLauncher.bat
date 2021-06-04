@@ -1,0 +1,1 @@
+"D:\_Unreal\Engine\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor.exe" "D:\Git\Projects\PuzzlePlatforms\PuzzlePlatforms.uproject" -game
